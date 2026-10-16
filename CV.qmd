@@ -1,0 +1,40 @@
+---
+title: "Curriculum Vitae"
+author:
+  firstname: Ellis
+  lastname: Franklin
+  position: "PhD Student · Bioinformatics & Ecotoxicology"
+  address: "Université de Lorraine, Metz, France"
+  contacts:
+    - icon: fa envelope
+      text: ellis.franklin@univ-lorraine.fr
+      url: "mailto:ellis.franklin@univ-lorraine.fr"
+    - icon: fa brands github
+      text: ellfran-7
+      url: "https://github.com/ellfran-7"
+    - icon: fa brands linkedin
+      text: Ellis Franklin
+      url: "https://www.linkedin.com/in/ellis-franklin-6188831ba/"
+    - icon: fa brands bluesky
+      text: elfrank7
+      url: "https://bsky.app/profile/elfrank7.bsky.social"
+date: last-modified
+format:
+  html:
+    toc: true
+    toc-location: left
+    theme:
+      - styles.scss
+      - _cv/cv.scss
+  typst:
+    toc: false
+    template-partials:
+      - _cv/typst-show.typ
+      - _cv/typst-template.typ
+    font-paths: "."
+format-links:
+  - format: typst
+    text: "Download PDF"
+execute:
+  echo: false
+---

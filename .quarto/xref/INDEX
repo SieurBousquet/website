@@ -13,5 +13,24 @@
   },
   "projects/index.qmd": {
     "index.html": "6e370509"
+  },
+  "website/index.qmd": {
+    "index.html": "f185ae49"
+  },
+  "website/blog/second-post/index.qmd": {
+    "index.html": "bf911426"
+  },
+  "website/blog/first-post/index.qmd": {
+    "index.html": "643f5aae"
+  },
+  "website/blog/third-post/index.ipynb": {
+    "index.html": "73d4b157"
+  },
+  "website/projects/index.qmd": {
+    "index.html": "6d38ae80"
+  },
+  "CV.qmd": {
+    "CV.html": "a221ff27",
+    "CV.typ": "f220e1d8"
   }
 }

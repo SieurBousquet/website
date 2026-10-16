@@ -1,20 +1,23 @@
 ---
 title: "Augustin BOUSQUET"
-subtitle: "Master 2 Ecotoxicology student"
-# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+subtitle: "Master 2 Ecotoxicology student at the LiEC laboratory Metz, France"
 image: profile.jpg
 about: # https://quarto.org/docs/websites/website-about.html
   template: trestles
+  image-shape: rounded
   links:
     - icon: github
       text: Github
-      href: https://github.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
+      href: https://github.com/SieurBousquet
+    - text: "Academic Email"
+      icon: envelope-at
+      href: "mailto:augustin.bousquet4@etu.univ-lorraine.fr"
+    - text: "Personal Email"
+      icon: envelope-at-fill
+      href: "mailto:augustin.bousquet@protonmail.ch"
 ---
 
-A little bit about me and my life.
+{{< lipsum 1 >}}
 
 ## Education
 

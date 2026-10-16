@@ -1,14 +1,28 @@
 project:
   type: website
+  output-dir: _site
 
 website:
-  title: "Home"
+  title: "Augustin Bousquet"
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
-  page-footer: "Made with ❤️ and Quarto"
+  page-footer:
+    border: true
+    left: "&#169; 2026 Augustin Bousquet .<br><small>Content licensed under [**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/).<br>"
+    right: "Made with ❤️ and Quarto"
+    
   navbar:
     right:
-      - text: Home
-        href: index.qmd
+      - text: CV
+        href: CV.qmd
+      - icon: github
+        text: Github
+        href: https://github.com/SieurBousquet
+      - text: "Academic Email"
+        icon: envelope-at
+        href: "mailto:augustin.bousquet4@etu.univ-lorraine.fr"
+      - text: "Personal Email"
+        icon: envelope-at-fill
+        href: "mailto:augustin.bousquet@protonmail.ch"
       
 format:
   html:
