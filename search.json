@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Student in 2nd Year Master’s degree Environment management - Ecotoxicology blabla blabla blabla lorem ipsum lorem isum et"
+  },
+  {
+    "objectID": "CV.html#educational-background",
+    "href": "CV.html#educational-background",
+    "title": "Curriculum Vitae",
+    "section": "Educational background",
+    "text": "Educational background\n\n2024-2027 : Master in Ecotoxicology (environmental management) at Lorraine University, Metz\n2022-2025 : Bachelor Life sciences, itinerary : Biodiversity and environmental biology (BBE) — Ecology at Toulouse university (30th/133) — Options Ecotoxicology (ongoing), Ethnobotanics, (15,25/20), Quantitative Biology (2nd/130)\n2022-2023 Bachelor 1 Life sciences, itinerary : Environment sciences ; Montpellier Sciences College (87th/440) — Option Integrated biology of marine mammals (18/20)\n2021-2022 : High School speciality Life & Earth sciences (18/20) & Chemistry & Physics (17/20)"
+  },
+  {
+    "objectID": "CV.html#experience",
+    "href": "CV.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
     "objectID": "blog/third-post/index.html",
     "href": "blog/third-post/index.html",
     "title": "Third Blog Post",
@@ -18,7 +39,7 @@
     "href": "index.html",
     "title": "Augustin BOUSQUET",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    "text": "I am a Master student at the Université de Lorraine in Metz, France. I focus on plastics, endocrine disruptors (PFAS) and statistics in Ecotoxicology.\nI am currently working on predicting PFAS contamination in damselfish (Chrysiptera cyanea) using diagnostic tools such as conditional inference forests (CIF).\nI am conducting an internship in the Laboratoire Interdisciplinaire des environnements Continentaux (LiEC) in Metz.\nI enjoy R and endocrine disruptors"
   },
   {
     "objectID": "index.html#education",
