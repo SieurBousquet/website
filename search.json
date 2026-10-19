@@ -4,7 +4,7 @@
     "href": "CV.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Student in 2nd Year Master’s degree Environment management - Ecotoxicology blabla blabla blabla lorem ipsum lorem isum et"
+    "text": "Student in 2nd Year Master’s degree Environment management - Ecotoxicology"
   },
   {
     "objectID": "CV.html#educational-background",
@@ -12,6 +12,34 @@
     "title": "Curriculum Vitae",
     "section": "Educational background",
     "text": "Educational background\n\n2024-2027 : Master in Ecotoxicology (environmental management) at Lorraine University, Metz\n2022-2025 : Bachelor Life sciences, itinerary : Biodiversity and environmental biology (BBE) — Ecology at Toulouse university (30th/133) — Options Ecotoxicology (ongoing), Ethnobotanics, (15,25/20), Quantitative Biology (2nd/130)\n2022-2023 Bachelor 1 Life sciences, itinerary : Environment sciences ; Montpellier Sciences College (87th/440) — Option Integrated biology of marine mammals (18/20)\n2021-2022 : High School speciality Life & Earth sciences (18/20) & Chemistry & Physics (17/20)"
+  },
+  {
+    "objectID": "CV.html#internships",
+    "href": "CV.html#internships",
+    "title": "Curriculum Vitae",
+    "section": "Internships",
+    "text": "Internships"
+  },
+  {
+    "objectID": "CV.html#curriculum-projects",
+    "href": "CV.html#curriculum-projects",
+    "title": "Curriculum Vitae",
+    "section": "Curriculum projects",
+    "text": "Curriculum projects\n\n2nd semester: Bibliographical Synthesis about orcas contamination, particularly with PCB.\n4th semester: Practical study on micro-forests efficiency (Miyawaki) on restoring biodiversity. Sampling (pitfall traps) and statistical analysis.\n5th semester:\n\nBibliography on PFOA and DuPont de Nemours© scandal about Teflon in West Virginia (USA).\nEpistemologic research about cellular senescence in evolutionary biology\n\n6th semester: Risk assessment on glyphosate and AMPA, their toxicity and their environmental fate.\n7th semester: In class study project on effects of two stress factors, temperature increase and nitrate contamination on Myriophyllym spicatum.\n8th semester: In class study project on PVC rainwater leaching on Eisenia fetida."
+  },
+  {
+    "objectID": "CV.html#general-skills",
+    "href": "CV.html#general-skills",
+    "title": "Curriculum Vitae",
+    "section": "General Skills",
+    "text": "General Skills\n\nEnglish C1 (TOEIC, TOEFL), Spanish B2, Japanese\nScientific and protocol thoroughness\nMeticulous drafting\nThoroughness and regularity of work\nTeamwork\nSharing and disseminating knowledge\nImage-editing softwares (clip-studio paint, Krita, Photoshop)"
+  },
+  {
+    "objectID": "CV.html#data-processing",
+    "href": "CV.html#data-processing",
+    "title": "Curriculum Vitae",
+    "section": "Data processing",
+    "text": "Data processing\n\nR language (Rstudio) General mastery\n\nCoding\nggplot2\nSandard statistical tests\nModelling with conditional inference forests & concentration-response models\n\nR Quarto (Markdown, Yaml)\nGeneral mastery of GIS – QGIS & ArcGIS Pro\nOffice suite (Microsoft, LibreOffice, OnlyOffice) – Writer and spreadsheets"
   },
   {
     "objectID": "CV.html#experience",
@@ -39,21 +67,7 @@
     "href": "index.html",
     "title": "Augustin BOUSQUET",
     "section": "",
-    "text": "I am a Master student at the Université de Lorraine in Metz, France. I focus on plastics, endocrine disruptors (PFAS) and statistics in Ecotoxicology.\nI am currently working on predicting PFAS contamination in damselfish (Chrysiptera cyanea) using diagnostic tools such as conditional inference forests (CIF).\nI am conducting an internship in the Laboratoire Interdisciplinaire des environnements Continentaux (LiEC) in Metz.\nI enjoy R and endocrine disruptors"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Augustin BOUSQUET",
-    "section": "Education",
-    "text": "Education\nUniversity of XYZ, City | Location | Sept 20XX - June 20XX"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Augustin BOUSQUET",
-    "section": "Experience",
-    "text": "Experience\nWorkplace | Job title | April 20XX - present"
+    "text": "I am currently working on predicting PFAS contamination in damselfish (Chrysiptera cyanea) using diagnostic tools such as conditional inference forests (CIF).\nI am conducting an internship in the Laboratoire Interdisciplinaire des environnements Continentaux (LiEC) in Metz.\nI love Epistemology and sciences philosophy as well as studying sciences integrity especially using statistics like in R. I also enjoy drawing and studying languages."
   },
   {
     "objectID": "blog/first-post/index.html",
