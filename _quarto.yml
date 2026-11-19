@@ -3,28 +3,30 @@ project:
   output-dir: _site
 
 website:
-  title: "Augustin Bousquet"
+  title: "***Augustin Bousquet***"
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
   page-footer:
+    background: "#E2A3FF"
     border: true
-    left: "&#169; 2026 Augustin Bousquet .<br><small>Content licensed under [**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/).<br>"
-    right: "Made with ❤️ and Quarto"
-    
+    left: "2026 Augustin Bousquet."
+    right: "Made with Quarto"
   navbar:
+    background: "#8C14A6"
     right:
       - text: CV
         href: CV.qmd
       - icon: github
-        text: Github
         href: https://github.com/SieurBousquet
-      - text: "Academic Email"
+      - text: "Academic"
         icon: envelope-at
         href: "mailto:augustin.bousquet4@etu.univ-lorraine.fr"
-      - text: "Personal Email"
+      - text: "Personal"
         icon: envelope-at-fill
         href: "mailto:augustin.bousquet@protonmail.ch"
-      
 format:
   html:
-    theme: [cosmo, styles.scss]
-
+    respect-user-color-scheme: true
+    theme:
+      - cosmo
+      - styles.scss
+    highlight-style: atom-one  # (radical, atom-one, tango), a11y, arrow function well

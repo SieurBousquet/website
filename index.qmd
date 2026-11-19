@@ -1,6 +1,6 @@
 ---
-title: "Augustin BOUSQUET"
-subtitle: "Master 2 Ecotoxicology student at the LiEC laboratory Metz, France"
+title: "*Augustin* BOUSQUET"
+subtitle: "Master 2 **Ecotoxicology** student at the LiEC laboratory, Lorraine University, Metz, France"
 image: profile.jpg
 about: # https://quarto.org/docs/websites/website-about.html
   template: trestles
@@ -15,14 +15,18 @@ about: # https://quarto.org/docs/websites/website-about.html
     - text: "Personal Email"
       icon: envelope-at-fill
       href: "mailto:augustin.bousquet@protonmail.ch"
+format:
+  html:
+    theme: 
+      - styles.scss
 ---
 
-{{< lipsum 1 >}}
+I am currently working on predicting PFAS contamination in damselfish (*Chrysiptera cyanea*) using diagnostic tools such as conditional inference forests (CIF).
 
-## Education
+I am conducting an internship in the [Laboratoire Interdisciplinaire des environnements Continentaux (LiEC)](https://liec.univ-lorraine.fr/) in Metz.
 
-University of XYZ, City \| Location \| Sept 20XX - June 20XX
+I love using statistics and bio-modeling in `R`. I also enjoy drawing and studying languages.
 
-## Experience
+I believe Epistemology 🖋️ 📖 can create a moral academic world where each researcher thinks thoroughly about the social implications of their works beforehand. This discipline can also lead to better our scientific research in a more practical way, such as the creation of subtle ecotoxicology.
 
-Workplace \| Job title \| April 20XX - present
+Please check out my [*CV*](https://sieurbousquet.github.io/website/CV.html)!

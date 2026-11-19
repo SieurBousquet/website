@@ -1,38 +1,59 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Augustin BOUSQUET",
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitæ",
     "section": "",
-    "text": "A little bit about me and my life."
+    "text": "Master 2 student in Environment management - Ecotoxicology"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Augustin BOUSQUET",
-    "section": "Education",
-    "text": "Education\nUniversity of XYZ, City | Location | Sept 20XX - June 20XX"
+    "objectID": "CV.html#educational-background",
+    "href": "CV.html#educational-background",
+    "title": "Curriculum Vitæ",
+    "section": "Educational background",
+    "text": "Educational background\nMaster in Environmental Management 2025 — 2027  Université de Lorraine, Metz  \n\nEcotoxicology | biomodelling | biostatistics | ecosystem functions and biodiversity | trophic chains\n\nFocus on biomodelling and POPs\n\n\nBachelor in Life Sciences 2023 — 2025  Université de Toulouse  30th/133 \n\nItinerary: Biodiversity and environmental biology (BBE) — Ecology, phylogeny | zoology | parasitology | ecophysiology | animal ecology | behavioural ecology | entomology | genetics\n\nEcotoxicology option (14.5/20)\nQuantitative biology (2nd/130)\nAnimal biology (18th/185)\nScientific approach (12th/181)\nGenomics (21st/105)\nAnimal developmental biology (31th/196)\nEthnobotanics (15,25/20)\n\n\nBachelor in Life Sciences 2022 — 2023  Faculté des Sciences de Montpellier  87th/440 \n\nItinerary: Environment Sciences — Ecosystems, organisms, molecular biology, cellular biology, chemistry\n\nIntegrated biology of marine mammals (1st/56)\nBiomechanics option (14th/114)\n\n\n2021-2022 : Baccalaureate 2021 — 2022 \n\nspecialty Life & Earth sciences (18/20) & Chemistry & Physics (17/20)"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Augustin BOUSQUET",
+    "objectID": "CV.html#internships",
+    "href": "CV.html#internships",
+    "title": "Curriculum Vitæ",
+    "section": "Internships",
+    "text": "Internships\nMaster 2 research internship feb — jul 2027 \n\nTitle: Predicting PFOS contamination in coral reef fish Chrysoptea cyanea using transcriptomic laboratory data via conditional inference tree models.\n\nThe internship consists in using oral PFOS contamination transcriptomic response data produced by Emma GAIRIN during her PhD at OIST to predict environmental concentration and effects in C. cyanea, a potentially useful way of reducing costs of biomonitoring\n\nMaster 1 research internship may — jun 2026 \n\nTitle: Critical analysis of environmental indicators used in the computing of E.S.G. scores’ environmental relevance.\n\nAs E.S.G. (environmental, social and governance) scores are of growing importance in investment decision making, an assessment of the relevance of the environmental indicators used by three audit agencies was conducted. Ecological and ecotoxicological indicators were studied and showed a lack of correlation between a company’s score and actual environmental risks.\nLicence 2 internship may — jun 2024  Creation of scientific workshops and participation in other. About ecology, evolution, functional traits and basic chemistry and physics in the scientific communication association Délires d’encre."
+  },
+  {
+    "objectID": "CV.html#curriculum-projects",
+    "href": "CV.html#curriculum-projects",
+    "title": "Curriculum Vitæ",
+    "section": "Curriculum projects",
+    "text": "Curriculum projects\n\n2nd semester: Bibliographical Synthesis about orcas contamination, particularly with PCB.\n4th semester: Practical study on micro-forests efficiency (Miyawaki) on restoring biodiversity. Sampling (pitfall traps) and statistical analysis.\n5th semester:\n\nBibliography on PFOA and DuPont de Nemours© scandal about Teflon in West Virginia (USA).\nEpistemologic research about cellular senescence in evolutionary biology\n\n6th semester: Risk assessment on glyphosate and AMPA, their toxicity and their environmental fate. A bibliographical analysis.\n7th semester:\n\nIn class study project on effects of two stress factors, temperature increase and nitrate contamination on Myriophyllym spicatum. Experimenting and statistical analysis.\nTwo Bibliographic synthesis: Persistent organic pollutants (POPs) in the grand cycle of water; Bio-based versus traditional plastics: a comparative toxicity and degradability assessment.\n\n8th semester: In class study project on PVC rainwater leaching on worm Eisenia fetida at different pH and PVC concentrations. Experimenting and statistical analysis."
+  },
+  {
+    "objectID": "CV.html#general-skills",
+    "href": "CV.html#general-skills",
+    "title": "Curriculum Vitae",
+    "section": "General Skills",
+    "text": "General Skills\n\nEnglish C1 (TOEIC, TOEFL), Spanish, Japanese\nScientific and protocol thoroughness\nMeticulous drafting\nThoroughness and regularity of work\nTeamwork\nSharing and disseminating knowledge\nImage-editing softwares (clip-studio paint, Krita, Photoshop)"
+  },
+  {
+    "objectID": "CV.html#data-processing",
+    "href": "CV.html#data-processing",
+    "title": "Curriculum Vitæ",
+    "section": "Data processing",
+    "text": "Data processing\n\nMain inferential statistical tests\nDose-response modeling: selection of significantly responsive items, model fitting and selection, ECX% and benchmark doses (BMD) computation.\nPredictive statistics: ANOVA, linear regression, non-linear models, GLM\nMultivariate analysis: trees, PCA, correspondence analysis\nData representation: R base and ggplot2"
+  },
+  {
+    "objectID": "CV.html#experience",
+    "href": "CV.html#experience",
+    "title": "Curriculum Vitae",
     "section": "Experience",
-    "text": "Experience\nWorkplace | Job title | April 20XX - present"
+    "text": "Experience"
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
+    "objectID": "blog/third-post/index.html",
+    "href": "blog/third-post/index.html",
+    "title": "Third Blog Post",
     "section": "",
-    "text": "Predicting House Prices with Machine Learning\n\n\n\nPython\n\nMachine Learning\n\nData Cleaning\n\n\n\nThis project involves using machine learning algorithms to predict house prices based on various features such as location, size, and amenities. It includes data cleaning, feature engineering, and model selection.\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nCustomer Segmentation Using Clustering Techniques\n\n\n\nR\n\nMachine Learning\n\nClustering\n\nStatistical Modelling\n\n\n\nThis project focuses on segmenting customers into different groups based on their purchasing behavior and demographics. It uses clustering algorithms like K-means and hierarchical clustering to identify distinct customer segments.\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Global CO2 Emissions\n\n\n\nR\n\nData Visualization\n\nEnvironmental Science\n\n\n\nThis project involves creating visualizations to show trends in global CO2 emissions over time. It includes data extraction from public databases, data cleaning, and using visualization libraries to create interactive charts and graphs.\n\n\n\nJul 1, 2024\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/first-post/index.html",
-    "href": "blog/first-post/index.html",
-    "title": "First Post",
-    "section": "",
-    "text": "Sed risus ultricies tristique nulla aliquet. Neque volutpat ac tincidunt vitae semper quis lectus nulla.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim sed faucibus turpis in eu mi bibendum neque. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Velit sed ullamcorper morbi tincidunt ornare massa. Sagittis id consectetur purus ut faucibus pulvinar elementum integer. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Lobortis feugiat vivamus at augue eget arcu. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Mauris a diam maecenas sed enim ut sem viverra aliquet. Enim ut tellus elementum sagittis vitae et leo duis. Molestie at elementum eu facilisis sed odio morbi quis commodo. Sapien pellentesque habitant morbi tristique senectus. Quam vulputate dignissim suspendisse in est. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget.\nVelit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Viverra mauris in aliquam sem fringilla ut morbi tincidunt augue. Tortor at auctor urna nunc id. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Aliquet nibh praesent tristique magna sit amet purus. Tristique senectus et netus et malesuada fames ac turpis. Hac habitasse platea dictumst quisque. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Iaculis at erat pellentesque adipiscing. Cras tincidunt lobortis feugiat vivamus. Nisi est sit amet facilisis magna etiam. Pharetra pharetra massa massa ultricies mi quis hendrerit. Vitae sapien pellentesque habitant morbi tristique senectus. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae."
+    "text": "The source for any page in your website could also be a Jupyter Notebook. This one is third-post/index.ipynb.\nHere’s an example I borrowed from the Seaborn docs:\n\nimport seaborn as sns\n\nsns.set_theme(style=\"whitegrid\")\n\n# Load the diamonds dataset\ndiamonds = sns.load_dataset(\"diamonds\")\n\n# Plot the distribution of clarity ratings, conditional on carat\nsns.displot(\n    data=diamonds,\n    x=\"carat\", hue=\"cut\",\n    kind=\"kde\", height=4, aspect=1.5,\n    multiple=\"fill\", clip=(0, None),\n    palette=\"ch:rot=-.25,hue=1,light=.75\",   \n)"
   },
   {
     "objectID": "blog/second-post/index.html",
@@ -42,10 +63,101 @@
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.\nPhasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices."
   },
   {
-    "objectID": "blog/third-post/index.html",
-    "href": "blog/third-post/index.html",
-    "title": "Third Blog Post",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Augustin BOUSQUET",
     "section": "",
-    "text": "The source for any page in your website could also be a Jupyter Notebook. This one is third-post/index.ipynb.\nHere’s an example I borrowed from the Seaborn docs:\n\nimport seaborn as sns\n\nsns.set_theme(style=\"whitegrid\")\n\n# Load the diamonds dataset\ndiamonds = sns.load_dataset(\"diamonds\")\n\n# Plot the distribution of clarity ratings, conditional on carat\nsns.displot(\n    data=diamonds,\n    x=\"carat\", hue=\"cut\",\n    kind=\"kde\", height=4, aspect=1.5,\n    multiple=\"fill\", clip=(0, None),\n    palette=\"ch:rot=-.25,hue=1,light=.75\",   \n)"
+    "text": "I am currently working on predicting PFAS contamination in damselfish (Chrysiptera cyanea) using diagnostic tools such as conditional inference forests (CIF).\nI am conducting an internship in the Laboratoire Interdisciplinaire des environnements Continentaux (LiEC) in Metz.\nI love using statistics and bio-modeling in R. I also enjoy drawing and studying languages.\nI believe Epistemology 🖋️ 📖 can create a moral academic world where each researcher thinks thoroughly about the social implications of their works beforehand. This discipline can also lead to better our scientific research in a more practical way, such as the creation of subtle ecotoxicology.\nPlease check out my CV!"
+  },
+  {
+    "objectID": "blog/first-post/index.html",
+    "href": "blog/first-post/index.html",
+    "title": "First Post",
+    "section": "",
+    "text": "Sed risus ultricies tristique nulla aliquet. Neque volutpat ac tincidunt vitae semper quis lectus nulla.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim sed faucibus turpis in eu mi bibendum neque. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Velit sed ullamcorper morbi tincidunt ornare massa. Sagittis id consectetur purus ut faucibus pulvinar elementum integer. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Lobortis feugiat vivamus at augue eget arcu. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Mauris a diam maecenas sed enim ut sem viverra aliquet. Enim ut tellus elementum sagittis vitae et leo duis. Molestie at elementum eu facilisis sed odio morbi quis commodo. Sapien pellentesque habitant morbi tristique senectus. Quam vulputate dignissim suspendisse in est. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget.\nVelit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Viverra mauris in aliquam sem fringilla ut morbi tincidunt augue. Tortor at auctor urna nunc id. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Aliquet nibh praesent tristique magna sit amet purus. Tristique senectus et netus et malesuada fames ac turpis. Hac habitasse platea dictumst quisque. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Iaculis at erat pellentesque adipiscing. Cras tincidunt lobortis feugiat vivamus. Nisi est sit amet facilisis magna etiam. Pharetra pharetra massa massa ultricies mi quis hendrerit. Vitae sapien pellentesque habitant morbi tristique senectus. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Predicting House Prices with Machine Learning\n\n\n\nPython\n\nMachine Learning\n\nData Cleaning\n\n\n\nThis project involves using machine learning algorithms to predict house prices based on various features such as location, size, and amenities. It includes data cleaning, feature engineering, and model selection.\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nCustomer Segmentation Using Clustering Techniques\n\n\n\nR\n\nMachine Learning\n\nClustering\n\nStatistical Modelling\n\n\n\nThis project focuses on segmenting customers into different groups based on their purchasing behavior and demographics. It uses clustering algorithms like K-means and hierarchical clustering to identify distinct customer segments.\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Global CO2 Emissions\n\n\n\nR\n\nData Visualization\n\nEnvironmental Science\n\n\n\nThis project involves creating visualizations to show trends in global CO2 emissions over time. It includes data extraction from public databases, data cleaning, and using visualization libraries to create interactive charts and graphs.\n\n\n\nJul 1, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "CV.html#skills",
+    "href": "CV.html#skills",
+    "title": "Curriculum Vitæ",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming and computing\n\nMain languages: R (advanced) , python (beginner)\nGIS: Qgis and ArcGIS pro \nReproducible research: Quarto , R Markdown , Git (Github) \nDocuments: HTML, (S)CSS, Markdown, LaTeX (basics)\n\n\n\nData processing\n\nMain inferential statistical tests\nDose-response modeling: selection of significantly responsive items, model fitting and selection, ECX% and benchmark doses (BMD) computation.\nPredictive statistics: ANOVA, linear regression, non-linear models, GLM\nMultivariate analysis: trees, PCA, correspondence analysis\nData representation: R base and ggplot2 \n\n\n\nEcotoxicological testing\n\nStandard tests:\n\nDaphnia magna (ISO 6341),\nAmes (ISO 16240)\nGermination (ISO 18763)\nAlgae Raphidocelis subcapitata (ISO 8692)\nCellular bioluminescence Vibrio fischeri (ISO 11348)\nEarthworm Eisenia fetida (ISO 17512-1)\n\nRT-qPCR\nBradford protein assay\nBases of transcriptomics and omics in general: theory and data analysis with gene selection, benchmark doses determination and graphical representations. \nMussel dissection (Dreissena polymorpha)\nMyriophyllum and earthworm cultivation\n\n\n\nEcological testing\n\nEcosystem functions testing: assimilative capacity, respiration, primary production and consumption, decomposition.\n\n\n\nGeneral Skills\n\nScientific protocol thoroughness (multi-stress — complex experimental designs)\nCommunication skills\nMeticulous drafting and thoroughly annotated scripts and protocols\nAdaptation and teamwork"
+  },
+  {
+    "objectID": "CV.html#experiences",
+    "href": "CV.html#experiences",
+    "title": "Curriculum Vitæ",
+    "section": "Experiences",
+    "text": "Experiences"
+  },
+  {
+    "objectID": "CV.html#experiencesx",
+    "href": "CV.html#experiencesx",
+    "title": "Curriculum Vitae",
+    "section": "Experiencesx",
+    "text": "Experiencesx"
+  },
+  {
+    "objectID": "CV.html#data-processing-1",
+    "href": "CV.html#data-processing-1",
+    "title": "Curriculum Vitæ",
+    "section": "Data processing",
+    "text": "Data processing\n\nR language (Rstudio) General mastery\n\nCoding\nggplot2\nSandard statistical tests\nModelling with conditional inference forests & concentration-response models\n\nR Quarto (Markdown, Yaml)\nGeneral mastery of GIS – QGIS & ArcGIS Pro\nOffice suite (Microsoft, LibreOffice, OnlyOffice) – Writer and spreadsheets"
+  },
+  {
+    "objectID": "CV.html#ecotoxicological-testing",
+    "href": "CV.html#ecotoxicological-testing",
+    "title": "Curriculum Vitæ",
+    "section": "Ecotoxicological testing",
+    "text": "Ecotoxicological testing\n\nStandard tests: Daphnia magna (ISO 6341), Ames (ISO 16240), germination (ISO 18763), algae Raphidocelis subcapitata (ISO 8692), cellular bioluminescence Vibrio fischeri (ISO 11348), earthworm Eisenia fetida (ISO 17512-1)"
+  },
+  {
+    "objectID": "index.html#heading-2",
+    "href": "index.html#heading-2",
+    "title": "Augustin BOUSQUET",
+    "section": "heading 2",
+    "text": "heading 2\nI love Epistemology and sciences philosophy as well as studying sciences integrity especially using statistics like in R. I also enjoy drawing and studying languages.\nI believe Epistemology 🖋️ 📖 can create a moral academic world where each researcher thinks thoroughly about the social implications of their works beforehand.\nPlease check out my CV!"
+  },
+  {
+    "objectID": "CV.html#ecological-testing",
+    "href": "CV.html#ecological-testing",
+    "title": "Curriculum Vitæ",
+    "section": "Ecological testing",
+    "text": "Ecological testing\nGeneral Skills\n\nEnglish C1 (TOEIC, TOEFL), Spanish, Japanese\nScientific and protocol thoroughness\nMeticulous drafting\nThoroughness and regularity of work\nTeamwork\nSharing and disseminating knowledge\nImage-editing softwares (clip-studio paint, Krita, Photoshop)"
+  },
+  {
+    "objectID": "CV.html#the-internship-consists-in-using-oral-pfos-contamination-transcriptomic-response-data-produced-by-emma-gairin-during-her-phd-at-oist-to-predict-environmental-concentration-and-effects-in-c.-cyanea-a-potentially-useful-way-of-reducing-costs-of-biomonitoring",
+    "href": "CV.html#the-internship-consists-in-using-oral-pfos-contamination-transcriptomic-response-data-produced-by-emma-gairin-during-her-phd-at-oist-to-predict-environmental-concentration-and-effects-in-c.-cyanea-a-potentially-useful-way-of-reducing-costs-of-biomonitoring",
+    "title": "Curriculum Vitæ",
+    "section": "The internship consists in using oral PFOS contamination transcriptomic response data produced by Emma GAIRIN during her PhD at OIST to predict environmental concentration and effects in C. cyanea, a potentially useful way of reducing costs of biomonitoring",
+    "text": "The internship consists in using oral PFOS contamination transcriptomic response data produced by Emma GAIRIN during her PhD at OIST to predict environmental concentration and effects in C. cyanea, a potentially useful way of reducing costs of biomonitoring\nMaster 1 research internship (may-jun 2026)\n\nTitle: Critical analysis of environmental indicators used in the computing of E.S.G. scores’ environmental relevance.\n\nAs E.S.G. (environmental, social and governance) scores are of growing importance in investment decision making, an assessment of the relevance of the environmental indicators used by three audit agencies was conducted. Ecological and ecotoxicological indicators were studied and showed a lack of correlation between a company’s score and actual environmental risks."
+  },
+  {
+    "objectID": "CV.html#additional",
+    "href": "CV.html#additional",
+    "title": "Curriculum Vitæ",
+    "section": "Additional",
+    "text": "Additional\n\nImage editing: Photoshop, Inkscape, ClipStudio Paint, Krita"
+  },
+  {
+    "objectID": "CV.html#languages",
+    "href": "CV.html#languages",
+    "title": "Curriculum Vitæ",
+    "section": "Languages",
+    "text": "Languages\n\nFrench — Native 🇫🇷\nEnglish C1 (TOEFL, TOEIC) 🇬🇧\nJapanese (conversational) 🇯🇵\nSpanish 🇪🇸"
+  },
+  {
+    "objectID": "CV.html#science-communications",
+    "href": "CV.html#science-communications",
+    "title": "Curriculum Vitæ",
+    "section": "Science communications",
+    "text": "Science communications\n\nFête de la science: Organized a 3 day long event targeted at school children in a scholar context and then a public setting. The event was about explaining key principles of predator-prey dynamics and modeling. – LIEC, Lorraine University, in 2025 and 2026. \n\n\n\n\n\n\n\nNote\n\n\n\n\n\nThis was a fantastic opportunity for me to get immersed again in Lotka-Volterra equations whilst learning to better raise awareness among children\n\n\n\n\nOrganization of a symposium about forests and climate change as part of the communication team, and gave a presentation about forest fire management PFAS foams ecotoxicology – LIEC, Lorraine University, in 2027 \nConducted a month-long scientific communication internship which allowed me to acquire knowledge transmission skills."
   }
 ]

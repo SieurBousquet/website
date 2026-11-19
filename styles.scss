@@ -1,13 +1,46 @@
 /*-- scss:defaults --*/
 
+
+
 // Sass Variables
 // https://quarto.org/docs/output-formats/html-themes.html#sass-variables
 
 /* Colors */
-$body-bg: #FFFFFF;
-$body-color: rgb(55, 58, 60);
-$link-color: rgb(39, 128, 227);
+$body-bg: #EDC7FF;
+$body-color: #360059; 
+$link-color: #000000;
+$code-block-bg: true;
+$code-color: #AC29FF;
 
 /* Fonts */
+$font-family-base: "Georgia", serif;
+$font-family-title: "Elsie Swash Caps", "Milonga", "Georgia", serif;
+$font-family-monospace: "Ubuntu Mono", monospace;
 $font-family-sans-serif: "Source Sans Pro", -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $font-size-root: 17px;
+
+
+/*-- scss:rules --*/
+// HEADERS : 
+
+h1 {
+  color: #7b4fa6;
+}
+h2 {
+  border-bottom: 2px solid #780511;
+}
+
+//font : Elsie Swash Caps or Milonga
+.navbar-title {
+  font-family: $font-family-title;
+}
+
+// Changing the vertical grey line right of the image
+
+/*-- scss:rules --*/
+@media (min-width: 992px) {
+  div.quarto-about-trestles .about-contents {
+    border-left: solid 2px #780511;  // weight and colour
+  }
+}
+
